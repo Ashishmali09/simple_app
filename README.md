@@ -1,3 +1,5 @@
+#Simple Todo is an app in which we can add, delete, and see our to-dos.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
